@@ -1,0 +1,8 @@
+name: "my-report"
+output_dir: "docs"
+navbar:
+  title: "My Report"
+  left:
+    - text: "Home"
+      href: index.html
+      
